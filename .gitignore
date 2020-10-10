@@ -1,6 +1,8 @@
-/node_modules/
+/all_goodies.zip
+/all_goodies*/
 /dist/
-/assets/
+/node_modules/
+/public/all_goodies/
 
 # MacOS
 .DS_Store

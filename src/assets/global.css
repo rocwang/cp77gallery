@@ -1,0 +1,15 @@
+@font-face {
+  font-family: cyberpunk;
+  src: url("./cyberpunk.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+:root {
+  --color-cp77-yellow: #fcee0a;
+  --color-cp77-cyan: #52bedc;
+  --color-cp77-red: #ff003c;
+  --color-cp77-black: #0e0e0e;
+  --color-cp77-gray: #8c8c8c;
+  --color-cp77-white: #fafafa;
+}
