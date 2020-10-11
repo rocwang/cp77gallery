@@ -5,9 +5,14 @@
       <Navigation :items="navItems" v-model="activeImageType" />
     </aside>
     <main>
-      <Grid :images="visibleImages" />
+      <Grid :images="visibleImages" @select="setActiveImage" />
     </main>
   </div>
+  <Slider
+    :images="visibleImages"
+    v-model="activeImgIdx"
+    v-if="activeImgIdx !== undefined"
+  />
 </template>
 
 <script lang="ts">
@@ -15,14 +20,16 @@ import { defineComponent, ref, computed } from "vue";
 import Grid from "@/components/Grid.vue";
 import Navigation from "@/components/Navigation.vue";
 import Title from "@/components/Title.vue";
+import Slider from "@/components/Slider.vue";
 import images from "./images.json";
 
 export default defineComponent({
   name: "App",
-  components: { Grid, Navigation, Title },
+  components: { Grid, Navigation, Title, Slider },
   setup() {
     const navItems = ["All", ...images.map(({ type }) => type)];
-    const activeImageType = ref("");
+    const activeImageType = ref("All");
+    const activeImgIdx = ref(undefined as Number | undefined);
     const visibleImages = computed(() => {
       const visibleType = images.find(
         ({ type }) => type === activeImageType.value
@@ -31,11 +38,14 @@ export default defineComponent({
 
       return visibleType ? visibleType.items : allImages;
     });
+    const setActiveImage = (i: Number | undefined) => (activeImgIdx.value = i);
 
     return {
       visibleImages,
       navItems,
+      activeImgIdx,
       activeImageType,
+      setActiveImage,
     };
   },
 });

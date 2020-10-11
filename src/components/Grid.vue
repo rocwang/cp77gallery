@@ -5,6 +5,7 @@
       :key="k"
       :href="`/all_goodies/${i.path.replace(/\....$/, '.1440.webp')}`"
       :class="$style.link"
+      @click.prevent="$emit('select', k)"
     >
       <img
         :src="`/all_goodies/${i.path.replace(/\....$/, '.300.webp')}`"

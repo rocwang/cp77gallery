@@ -3,28 +3,28 @@
     "type": "Cover Arts",
     "items": [
       {
-        "path": "cover_arts/Cyberpunk2077-samurai_back.png",
-        "caption": "Samurai Back"
-      },
-      {
-        "path": "cover_arts/Cyberpunk2077-hand.png",
-        "caption": "Hand"
+        "path": "cover_arts/Cyberpunk2077-keyart-male.png",
+        "caption": "Keyart Male V"
       },
       {
         "path": "cover_arts/Cyberpunk2077-keyart-female_v.png",
         "caption": "Keyart Female V"
       },
       {
+        "path": "cover_arts/Cyberpunk2077-V_with_car.png",
+        "caption": "V With Car"
+      },
+      {
+        "path": "cover_arts/Cyberpunk2077-samurai_back.png",
+        "caption": "Samurai Back"
+      },
+      {
         "path": "cover_arts/Cyberpunk2077-metro.png",
         "caption": "Metro"
       },
       {
-        "path": "cover_arts/Cyberpunk2077-keyart-male.png",
-        "caption": "Keyart Male V"
-      },
-      {
-        "path": "cover_arts/Cyberpunk2077-V_with_car.png",
-        "caption": "V With Car"
+        "path": "cover_arts/Cyberpunk2077-hand.png",
+        "caption": "Hand"
       }
     ]
   },
@@ -345,16 +345,20 @@
     "type": "Posters",
     "items": [
       {
-        "path": "posters/style_kitsch.pdf",
-        "caption": "Style Kitsch"
+        "path": "posters/Posters_Arasaka_24inx36in.pdf",
+        "caption": "Arasaka"
       },
       {
         "path": "posters/Posters_Sojasil_Machistador_24inx36in.pdf",
-        "caption": "Posters Sojasil Machistador"
+        "caption": "Sojasil Machistador"
       },
       {
         "path": "posters/Posters_Electronic_Murderer_24inx36in.pdf",
-        "caption": "Posters Electronic Murderer"
+        "caption": "Electronic Murderer"
+      },
+      {
+        "path": "posters/style_kitsch.pdf",
+        "caption": "Style Kitsch"
       },
       {
         "path": "posters/style_entropism.pdf",
@@ -363,10 +367,6 @@
       {
         "path": "posters/style_neomilitarism.pdf",
         "caption": "Style Neomilitarism"
-      },
-      {
-        "path": "posters/Posters_Arasaka_24inx36in.pdf",
-        "caption": "Posters Arasaka"
       },
       {
         "path": "posters/style_neokitsch.pdf",
@@ -444,56 +444,24 @@
         "caption": "Kitsch Interiors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Trauma_Team_in_Action_RGB.png",
-        "caption": "Trauma Team In Action"
-      },
-      {
         "path": "concept_arts/Cyberpunk2077_Kitsch_exteriors.png",
         "caption": "Kitsch Exteriors"
-      },
-      {
-        "path": "concept_arts/bp_Kang_Tao_G-58_DIAN.jpg",
-        "caption": "Bp Kang Tao G-58 Dian"
       },
       {
         "path": "concept_arts/Cyberpunk2077_Entropism_interiors.png",
         "caption": "Entropism Interiors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Neomilitarism_interiors.png",
-        "caption": "Neomilitarism Interiors"
-      },
-      {
         "path": "concept_arts/Cyberpunk2077_Entropism_exteriors.png",
         "caption": "Entropism Exteriors"
       },
       {
+        "path": "concept_arts/Cyberpunk2077_Neomilitarism_interiors.png",
+        "caption": "Neomilitarism Interiors"
+      },
+      {
         "path": "concept_arts/Cyberpunk2077_Neomilitarism_exteriors.png",
         "caption": "Neomilitarism Exteriors"
-      },
-      {
-        "path": "concept_arts/bp_Militech_M221_SARATOGA.jpg",
-        "caption": "Bp Militech M221 Saratoga"
-      },
-      {
-        "path": "concept_arts/Cyberpunk2077_Jacked_in_RGB-EN.png",
-        "caption": "Jacked In"
-      },
-      {
-        "path": "concept_arts/bp_Constitutional_Arms_M2067_Defender.jpg",
-        "caption": "Bp Constitutional Arms M2067 Defender"
-      },
-      {
-        "path": "concept_arts/Cyberpunk2077_Smoke_and_mirrors_RGB-EN.png",
-        "caption": "Smoke And Mirrors"
-      },
-      {
-        "path": "concept_arts/Cyberpunk2077_Not_Dead_Yet_RGB-EN.png",
-        "caption": "Not Dead Yet"
-      },
-      {
-        "path": "concept_arts/Cyberpunk2077_All_ready_to_go_RGB-EN.png",
-        "caption": "All Ready To Go"
       },
       {
         "path": "concept_arts/Cyberpunk2077_Neokitsch_interiors.png",
@@ -508,20 +476,52 @@
         "caption": "Doing Business"
       },
       {
-        "path": "concept_arts/bp_Arasaka_Mantis_Blades.jpg",
-        "caption": "Bp Arasaka Mantis Blades"
-      },
-      {
-        "path": "concept_arts/bp_Militech_M-10AF_Lexington.jpg",
-        "caption": "Bp Militech M-10af Lexington"
-      },
-      {
         "path": "concept_arts/Cyberpunk2077_Street_Life_RGB.png",
         "caption": "Street Life"
       },
       {
         "path": "concept_arts/Cyberpunk2077_I_make_my_own_rules_RGB-EN.png",
         "caption": "I Make My Own Rules"
+      },
+      {
+        "path": "concept_arts/Cyberpunk2077_Trauma_Team_in_Action_RGB.png",
+        "caption": "Trauma Team In Action"
+      },
+      {
+        "path": "concept_arts/Cyberpunk2077_Jacked_in_RGB-EN.png",
+        "caption": "Jacked In"
+      },
+      {
+        "path": "concept_arts/Cyberpunk2077_Smoke_and_mirrors_RGB-EN.png",
+        "caption": "Smoke And Mirrors"
+      },
+      {
+        "path": "concept_arts/Cyberpunk2077_Not_Dead_Yet_RGB-EN.png",
+        "caption": "Not Dead Yet"
+      },
+      {
+        "path": "concept_arts/Cyberpunk2077_All_ready_to_go_RGB-EN.png",
+        "caption": "All Ready To Go"
+      },
+      {
+        "path": "concept_arts/bp_Kang_Tao_G-58_DIAN.jpg",
+        "caption": "Kang Tao G-58 Dian Blueprint"
+      },
+      {
+        "path": "concept_arts/bp_Militech_M221_SARATOGA.jpg",
+        "caption": "Militech M221 Saratoga Blueprint"
+      },
+      {
+        "path": "concept_arts/bp_Constitutional_Arms_M2067_Defender.jpg",
+        "caption": "Constitutional Arms M2067 Defender Blueprint"
+      },
+      {
+        "path": "concept_arts/bp_Arasaka_Mantis_Blades.jpg",
+        "caption": "Arasaka Mantis Blades Blueprint"
+      },
+      {
+        "path": "concept_arts/bp_Militech_M-10AF_Lexington.jpg",
+        "caption": "Militech M-10af Lexington Blueprint"
       }
     ]
   },
