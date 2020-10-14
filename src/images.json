@@ -3,27 +3,27 @@
     "type": "Cover Arts",
     "items": [
       {
-        "path": "cover_arts/Cyberpunk2077-keyart-male.png",
+        "target": "cover_arts/Cyberpunk2077-keyart-male",
         "caption": "Keyart Male V"
       },
       {
-        "path": "cover_arts/Cyberpunk2077-keyart-female_v.png",
+        "target": "cover_arts/Cyberpunk2077-keyart-female_v",
         "caption": "Keyart Female V"
       },
       {
-        "path": "cover_arts/Cyberpunk2077-V_with_car.png",
+        "target": "cover_arts/Cyberpunk2077-V_with_car",
         "caption": "V With Car"
       },
       {
-        "path": "cover_arts/Cyberpunk2077-samurai_back.png",
+        "target": "cover_arts/Cyberpunk2077-samurai_back",
         "caption": "Samurai Back"
       },
       {
-        "path": "cover_arts/Cyberpunk2077-metro.png",
+        "target": "cover_arts/Cyberpunk2077-metro",
         "caption": "Metro"
       },
       {
-        "path": "cover_arts/Cyberpunk2077-hand.png",
+        "target": "cover_arts/Cyberpunk2077-hand",
         "caption": "Hand"
       }
     ]
@@ -32,311 +32,311 @@
     "type": "Screenshots",
     "items": [
       {
-        "path": "screenshots/Cyberpunk2077-The_scenic_route_EN.png",
+        "target": "screenshots/Cyberpunk2077-The_scenic_route_EN",
         "caption": "The Scenic Route"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Ready_to_get_back_to_the_big_leagues-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Ready_to_get_back_to_the_big_leagues-RGB-EN",
         "caption": "Ready To Get Back To The Big Leagues"
       },
       {
-        "path": "screenshots/Cyberpunk2077-The_hottest_tech_in_town-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-The_hottest_tech_in_town-RGB-EN",
         "caption": "The Hottest Tech In Town"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Beautiful_and_deadly_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Beautiful_and_deadly_RGB_EN",
         "caption": "Beautiful And Deadly"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Really_love_what_you_did_with_the_place-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Really_love_what_you_did_with_the_place-RGB-EN",
         "caption": "Really Love What You Did With The Place"
       },
       {
-        "path": "screenshots/Cyberpunk2077_The_life_of_luxury_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_The_life_of_luxury_RGB_EN",
         "caption": "The Life Of Luxury"
       },
       {
-        "path": "screenshots/Cyberpunk2077-System_error-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-System_error-RGB-EN",
         "caption": "System Error"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Hammer_time-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Hammer_time-RGB-EN",
         "caption": "Hammer Time"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Knew_it_would_come_in_handy-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Knew_it_would_come_in_handy-RGB-EN",
         "caption": "Knew It Would Come In Handy"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Different_faces_of_violence-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Different_faces_of_violence-RGB-EN",
         "caption": "Different Faces Of Violence"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Lets_see_what_the_fire_regulations_have_to_say_about_this_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Lets_see_what_the_fire_regulations_have_to_say_about_this_RGB_EN",
         "caption": "Lets See What The Fire Regulations Have To Say About This"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Running_the_show-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Running_the_show-RGB-EN",
         "caption": "Running The Show"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Missed_me_missed_me_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Missed_me_missed_me_RGB_EN",
         "caption": "Missed Me Missed Me"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Coming_through-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Coming_through-RGB-EN",
         "caption": "Coming Through"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Nanowires-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Nanowires-RGB-EN",
         "caption": "Nanowires"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Welcome_to_Paradise-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Welcome_to_Paradise-RGB-EN",
         "caption": "Welcome To Paradise"
       },
       {
-        "path": "screenshots/Cyberpunk2077-You_have_1_new_message_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-You_have_1_new_message_RGB_EN",
         "caption": "You Have 1 New Message"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Provoked_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Provoked_RGB_EN",
         "caption": "Provoked"
       },
       {
-        "path": "screenshots/Cyberpunk2077-The_million_euro_dollar_question-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-The_million_euro_dollar_question-RGB-EN",
         "caption": "The Million Euro Dollar Question"
       },
       {
-        "path": "screenshots/Cyberpunk2077-The_root_of_all_problems-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-The_root_of_all_problems-RGB-EN",
         "caption": "The Root Of All Problems"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Admiring_the_view_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Admiring_the_view_RGB_EN",
         "caption": "Admiring The View"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Passing_the_time_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Passing_the_time_RGB_EN",
         "caption": "Passing The Time"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Gotta_know_where_to_look-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Gotta_know_where_to_look-RGB-EN",
         "caption": "Gotta Know Where To Look"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Hope_you_arent_afraid_of_heights_EN.png",
+        "target": "screenshots/Cyberpunk2077-Hope_you_arent_afraid_of_heights_EN",
         "caption": "Hope You Arent Afraid Of Heights"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Catching_a_break-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Catching_a_break-RGB-EN",
         "caption": "Catching A Break"
       },
       {
-        "path": "screenshots/Cyberpunk2077_All_ready_to_go_RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077_All_ready_to_go_RGB-EN",
         "caption": "All Ready To Go"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Now_arriving_at_destination-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Now_arriving_at_destination-RGB-EN",
         "caption": "Now Arriving At Destination"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Lets_go_to_the_mall_EN.png",
+        "target": "screenshots/Cyberpunk2077-Lets_go_to_the_mall_EN",
         "caption": "Lets Go To The Mall"
       },
       {
-        "path": "screenshots/Cyberpunk2077_You_better_not_interfere_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_You_better_not_interfere_RGB_EN",
         "caption": "You Better Not Interfere"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Any_Last_Words_RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Any_Last_Words_RGB-EN",
         "caption": "Any Last Words"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Closed_for_the_day_EN.png",
+        "target": "screenshots/Cyberpunk2077-Closed_for_the_day_EN",
         "caption": "Closed For The Day"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Your_move_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Your_move_RGB_EN",
         "caption": "Your Move"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Dead_end_EN.png",
+        "target": "screenshots/Cyberpunk2077-Dead_end_EN",
         "caption": "Dead End"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Trauma_Team_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Trauma_Team_RGB_EN",
         "caption": "Trauma Team"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Expendable_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Expendable_RGB_EN",
         "caption": "Expendable"
       },
       {
-        "path": "screenshots/Cyberpunk2077-High_speed_high_stakes-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-High_speed_high_stakes-RGB-EN",
         "caption": "High Speed High Stakes"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Really_wish_I_brought_my_shades_EN.png",
+        "target": "screenshots/Cyberpunk2077-Really_wish_I_brought_my_shades_EN",
         "caption": "Really Wish I Brought My Shades"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Shoot_Through_Walls_V-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Shoot_Through_Walls_V-RGB-EN",
         "caption": "Shoot Through Walls V"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Boom_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Boom_RGB_EN",
         "caption": "Boom"
       },
       {
-        "path": "screenshots/Cyberpunk2077_All_geared_up_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_All_geared_up_RGB_EN",
         "caption": "All Geared Up"
       },
       {
-        "path": "screenshots/Cyberpunk2077_It’s_a_deal_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_It’s_a_deal_RGB_EN",
         "caption": "It's A Deal"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Looks_like_someone_got_in_trouble-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Looks_like_someone_got_in_trouble-RGB-EN",
         "caption": "Looks Like Someone Got In Trouble"
       },
       {
-        "path": "screenshots/Cyberpunk2077-In_and_out-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-In_and_out-RGB-EN",
         "caption": "In And Out"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Sparring_Session_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Sparring_Session_RGB_EN",
         "caption": "Sparring Session"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Just_in_time_for_dinner-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Just_in_time_for_dinner-RGB-EN",
         "caption": "Just In Time For Dinner"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Get_off_my_property_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Get_off_my_property_RGB_EN",
         "caption": "Get Off My Property"
       },
       {
-        "path": "screenshots/Cyberpunk2077-The_tipping_point-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-The_tipping_point-RGB-EN",
         "caption": "The Tipping Point"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Just_another_quiet_afternoon_in_Pacifica_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Just_another_quiet_afternoon_in_Pacifica_RGB_EN",
         "caption": "Just Another Quiet Afternoon In Pacifica"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Drawing_the_line_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Drawing_the_line_RGB_EN",
         "caption": "Drawing The Line"
       },
       {
-        "path": "screenshots/Cyberpunk2077_In_the_middle_of_nowhere_EN.png",
+        "target": "screenshots/Cyberpunk2077_In_the_middle_of_nowhere_EN",
         "caption": "In The Middle Of Nowhere"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Theres_someone_behind_you_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Theres_someone_behind_you_RGB_EN",
         "caption": "Theres Someone Behind You"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Should_have_taken_the_elevator_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Should_have_taken_the_elevator_RGB_EN",
         "caption": "Should Have Taken The Elevator"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Art_is_all_around-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Art_is_all_around-RGB-EN",
         "caption": "Art Is All Around"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Youre_mine-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Youre_mine-RGB-EN",
         "caption": "You're Mine"
       },
       {
-        "path": "screenshots/Cyberpunk2077_A_mercenary_on_the_rise_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_A_mercenary_on_the_rise_RGB_EN",
         "caption": "A Mercenary On The Rise"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Nothing_to_see_here-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Nothing_to_see_here-RGB-EN",
         "caption": "Nothing To See Here"
       },
       {
-        "path": "screenshots/Cyberpunk2077-You_look_like_youve_seen_a_ghost-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-You_look_like_youve_seen_a_ghost-RGB-EN",
         "caption": "You Look Like You've Seen A Ghost"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Outnumbered_But_Not_Outgunned_RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Outnumbered_But_Not_Outgunned_RGB-EN",
         "caption": "Outnumbered But Not Outgunned"
       },
       {
-        "path": "screenshots/Cyberpunk2077_A_gun_for_hire_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_A_gun_for_hire_RGB_EN",
         "caption": "A Gun For Hire"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Sweet_ride_EN.png",
+        "target": "screenshots/Cyberpunk2077-Sweet_ride_EN",
         "caption": "Sweet Ride"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Whos_next-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Whos_next-RGB-EN",
         "caption": "Who's Next"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Float_like_a_butterfly_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Float_like_a_butterfly_RGB_EN",
         "caption": "Float Like A Butterfly"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Nice_to_meet_you_too_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Nice_to_meet_you_too_RGB_EN",
         "caption": "Nice To Meet You Too"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Ready_to_dive_back_in-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Ready_to_dive_back_in-RGB-EN",
         "caption": "Ready To Dive Back In"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Just_around_the_corner_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Just_around_the_corner_RGB_EN",
         "caption": "Just Around The Corner"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Those_are_some_mighty_big_guns_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077-Those_are_some_mighty_big_guns_RGB_EN",
         "caption": "Those Are Some Mighty Big Guns"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Punch_it_EN.png",
+        "target": "screenshots/Cyberpunk2077-Punch_it_EN",
         "caption": "Punch It"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Your_Chakra-s_Off_Babe-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Your_Chakra-s_Off_Babe-RGB-EN",
         "caption": "Your Chakra Is Off Babe"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Shock_to_save_shoot_to_kill-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Shock_to_save_shoot_to_kill-RGB-EN",
         "caption": "Shock To Save Shoot To Kill"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Arriving_at_destination_EN.png",
+        "target": "screenshots/Cyberpunk2077-Arriving_at_destination_EN",
         "caption": "Arriving At Destination"
       },
       {
-        "path": "screenshots/Cyberpunk2077-The_man_with_the_silver_hand-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-The_man_with_the_silver_hand-RGB-EN",
         "caption": "The Man With The Silver Hand"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Got_a_bad_feeling_about_this-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Got_a_bad_feeling_about_this-RGB-EN",
         "caption": "Got A Bad Feeling About This"
       },
       {
-        "path": "screenshots/Cyberpunk2077-A_beautiful_beast-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-A_beautiful_beast-RGB-EN",
         "caption": "A Beautiful Beast"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Big_Man_With_a_Big_Gun_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Big_Man_With_a_Big_Gun_RGB_EN",
         "caption": "Big Man With A Big Gun"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Nice_coat-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Nice_coat-RGB-EN",
         "caption": "Nice Coat"
       },
       {
-        "path": "screenshots/Cyberpunk2077_Ambushed_RGB_EN.png",
+        "target": "screenshots/Cyberpunk2077_Ambushed_RGB_EN",
         "caption": "Ambushed"
       },
       {
-        "path": "screenshots/Cyberpunk2077-Ripperdoc_clinic-RGB-EN.png",
+        "target": "screenshots/Cyberpunk2077-Ripperdoc_clinic-RGB-EN",
         "caption": "Ripperdoc Clinic"
       }
     ]
@@ -345,31 +345,31 @@
     "type": "Posters",
     "items": [
       {
-        "path": "posters/Posters_Arasaka_24inx36in.pdf",
+        "target": "posters/Posters_Arasaka_24inx36in",
         "caption": "Arasaka"
       },
       {
-        "path": "posters/Posters_Sojasil_Machistador_24inx36in.pdf",
+        "target": "posters/Posters_Sojasil_Machistador_24inx36in",
         "caption": "Sojasil Machistador"
       },
       {
-        "path": "posters/Posters_Electronic_Murderer_24inx36in.pdf",
+        "target": "posters/Posters_Electronic_Murderer_24inx36in",
         "caption": "Electronic Murderer"
       },
       {
-        "path": "posters/style_kitsch.pdf",
+        "target": "posters/style_kitsch",
         "caption": "Style Kitsch"
       },
       {
-        "path": "posters/style_entropism.pdf",
+        "target": "posters/style_entropism",
         "caption": "Style Entropism"
       },
       {
-        "path": "posters/style_neomilitarism.pdf",
+        "target": "posters/style_neomilitarism",
         "caption": "Style Neomilitarism"
       },
       {
-        "path": "posters/style_neokitsch.pdf",
+        "target": "posters/style_neokitsch",
         "caption": "Style Neokitsch"
       }
     ]
@@ -378,19 +378,19 @@
     "type": "Steelbook Arts",
     "items": [
       {
-        "path": "steelbook_arts/04_tyger_claws.png",
+        "target": "steelbook_arts/04_tyger_claws",
         "caption": "Tyger Claws"
       },
       {
-        "path": "steelbook_arts/02_voodoo_boys.png",
+        "target": "steelbook_arts/02_voodoo_boys",
         "caption": "Voodoo Boys"
       },
       {
-        "path": "steelbook_arts/01_maelstrom.png",
+        "target": "steelbook_arts/01_maelstrom",
         "caption": "Maelstrom"
       },
       {
-        "path": "steelbook_arts/03_valentinos.png",
+        "target": "steelbook_arts/03_valentinos",
         "caption": "Valentinos"
       }
     ]
@@ -399,39 +399,39 @@
     "type": "Wallpapers",
     "items": [
       {
-        "path": "wallpapers/v_logotype-2560x1600_EN.jpg",
+        "target": "wallpapers/v_logotype-2560x1600_EN",
         "caption": "V Logotype"
       },
       {
-        "path": "wallpapers/Trauma_Team-2560x1600-EN.png",
+        "target": "wallpapers/Trauma_Team-2560x1600-EN",
         "caption": "Trauma Team"
       },
       {
-        "path": "wallpapers/trailer_logotype-2560x1600-EN.png",
+        "target": "wallpapers/trailer_logotype-2560x1600-EN",
         "caption": "Trailer Logotype"
       },
       {
-        "path": "wallpapers/Braindance_experience-2560x1600-EN.png",
+        "target": "wallpapers/Braindance_experience-2560x1600-EN",
         "caption": "Braindance Experience"
       },
       {
-        "path": "wallpapers/It’s_a_deal-2560x1600-EN.png",
+        "target": "wallpapers/It’s_a_deal-2560x1600-EN",
         "caption": "It's A Deal"
       },
       {
-        "path": "wallpapers/A_mercenary_on_the_rise-2560x1600-EN.png",
+        "target": "wallpapers/A_mercenary_on_the_rise-2560x1600-EN",
         "caption": "A Mercenary On The Rise"
       },
       {
-        "path": "wallpapers/CP77-Metro-2560x1600_EN.png",
+        "target": "wallpapers/CP77-Metro-2560x1600_EN",
         "caption": "Metro"
       },
       {
-        "path": "wallpapers/Just_around_the_corner-2560x1600-EN.png",
+        "target": "wallpapers/Just_around_the_corner-2560x1600-EN",
         "caption": "Just Around The Corner"
       },
       {
-        "path": "wallpapers/CP77-VDay-2560x1600_EN.png",
+        "target": "wallpapers/CP77-VDay-2560x1600_EN",
         "caption": "VDay"
       }
     ]
@@ -440,87 +440,87 @@
     "type": "Concept Arts",
     "items": [
       {
-        "path": "concept_arts/Cyberpunk2077_Kitsch_interiors.png",
+        "target": "concept_arts/Cyberpunk2077_Kitsch_interiors",
         "caption": "Kitsch Interiors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Kitsch_exteriors.png",
+        "target": "concept_arts/Cyberpunk2077_Kitsch_exteriors",
         "caption": "Kitsch Exteriors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Entropism_interiors.png",
+        "target": "concept_arts/Cyberpunk2077_Entropism_interiors",
         "caption": "Entropism Interiors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Entropism_exteriors.png",
+        "target": "concept_arts/Cyberpunk2077_Entropism_exteriors",
         "caption": "Entropism Exteriors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Neomilitarism_interiors.png",
+        "target": "concept_arts/Cyberpunk2077_Neomilitarism_interiors",
         "caption": "Neomilitarism Interiors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Neomilitarism_exteriors.png",
+        "target": "concept_arts/Cyberpunk2077_Neomilitarism_exteriors",
         "caption": "Neomilitarism Exteriors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Neokitsch_interiors.png",
+        "target": "concept_arts/Cyberpunk2077_Neokitsch_interiors",
         "caption": "Neokitsch Interiors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Neokitsch_exteriors.png",
+        "target": "concept_arts/Cyberpunk2077_Neokitsch_exteriors",
         "caption": "Neokitsch Exteriors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Doing_Business_RGB-EN.png",
+        "target": "concept_arts/Cyberpunk2077_Doing_Business_RGB-EN",
         "caption": "Doing Business"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Street_Life_RGB.png",
+        "target": "concept_arts/Cyberpunk2077_Street_Life_RGB",
         "caption": "Street Life"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_I_make_my_own_rules_RGB-EN.png",
+        "target": "concept_arts/Cyberpunk2077_I_make_my_own_rules_RGB-EN",
         "caption": "I Make My Own Rules"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Trauma_Team_in_Action_RGB.png",
+        "target": "concept_arts/Cyberpunk2077_Trauma_Team_in_Action_RGB",
         "caption": "Trauma Team In Action"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Jacked_in_RGB-EN.png",
+        "target": "concept_arts/Cyberpunk2077_Jacked_in_RGB-EN",
         "caption": "Jacked In"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Smoke_and_mirrors_RGB-EN.png",
+        "target": "concept_arts/Cyberpunk2077_Smoke_and_mirrors_RGB-EN",
         "caption": "Smoke And Mirrors"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_Not_Dead_Yet_RGB-EN.png",
+        "target": "concept_arts/Cyberpunk2077_Not_Dead_Yet_RGB-EN",
         "caption": "Not Dead Yet"
       },
       {
-        "path": "concept_arts/Cyberpunk2077_All_ready_to_go_RGB-EN.png",
+        "target": "concept_arts/Cyberpunk2077_All_ready_to_go_RGB-EN",
         "caption": "All Ready To Go"
       },
       {
-        "path": "concept_arts/bp_Kang_Tao_G-58_DIAN.jpg",
+        "target": "concept_arts/bp_Kang_Tao_G-58_DIAN",
         "caption": "Kang Tao G-58 Dian Blueprint"
       },
       {
-        "path": "concept_arts/bp_Militech_M221_SARATOGA.jpg",
+        "target": "concept_arts/bp_Militech_M221_SARATOGA",
         "caption": "Militech M221 Saratoga Blueprint"
       },
       {
-        "path": "concept_arts/bp_Constitutional_Arms_M2067_Defender.jpg",
+        "target": "concept_arts/bp_Constitutional_Arms_M2067_Defender",
         "caption": "Constitutional Arms M2067 Defender Blueprint"
       },
       {
-        "path": "concept_arts/bp_Arasaka_Mantis_Blades.jpg",
+        "target": "concept_arts/bp_Arasaka_Mantis_Blades",
         "caption": "Arasaka Mantis Blades Blueprint"
       },
       {
-        "path": "concept_arts/bp_Militech_M-10AF_Lexington.jpg",
+        "target": "concept_arts/bp_Militech_M-10AF_Lexington",
         "caption": "Militech M-10af Lexington Blueprint"
       }
     ]
@@ -529,7 +529,7 @@
     "type": "Stickers",
     "items": [
       {
-        "path": "gangs_graffiti/Preview_GOG_Goodie_Pack_Gang-Stickers.jpg",
+        "target": "gangs_graffiti/Preview_GOG_Goodie_Pack_Gang-Stickers",
         "caption": "Gang Graffiti"
       }
     ]

@@ -8,12 +8,11 @@
     tabindex="0"
   >
     <TransitionSlide :direction="direction">
-      <figure :class="$style.figure" :key="activeImage.path">
+      <figure :class="$style.figure" :key="activeImage.target">
         <img
-          :src="`/all_goodies/${activeImage.path.replace(
-            /\....$/,
-            '.1440.webp'
-          )}`"
+          :src="activeImage.src"
+          :srcset="activeImage.srcset"
+          sizes="100vw"
           :alt="activeImage.caption"
           :class="$style.image"
           ref="imageElement"
@@ -28,7 +27,7 @@
       type="button"
       :class="[$style.prev, $style.button]"
       @click="prev"
-      v-if="images.length > 1"
+      v-if="resizedImages.length > 1"
     >
       &lt;
     </button>
@@ -36,7 +35,7 @@
       type="button"
       :class="[$style.next, $style.button]"
       @click="next"
-      v-if="images.length > 1"
+      v-if="resizedImages.length > 1"
     >
       &gt;
     </button>
@@ -47,8 +46,9 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, computed, ref, onMounted } from "vue";
+import { defineComponent, computed, ref, onMounted, PropType } from "vue";
 import TransitionSlide from "@/components/TransitionSlide.vue";
+import { path, srcsetByWidth } from "@/image.ts";
 
 export default defineComponent({
   name: "Slider",
@@ -59,12 +59,28 @@ export default defineComponent({
       required: true,
     },
     images: {
-      type: Array,
+      type: Array as PropType<{ target: string; caption: string }[]>,
       required: true,
     },
   },
   setup(props, context) {
-    const activeImage = computed(() => props.images[props.modelValue]);
+    const resizedImages = computed(() =>
+      props.images.map((i) => ({
+        ...i,
+        src: path(i.target, 1440),
+        srcset: srcsetByWidth(i.target, [
+          1280,
+          1366,
+          1600,
+          1920,
+          2560,
+          3840,
+          5120,
+        ]),
+      }))
+    );
+
+    const activeImage = computed(() => resizedImages.value[props.modelValue]);
     const root = ref(null as HTMLElement | null);
     const imageElement = ref(null as HTMLElement | null);
     const direction = ref("next");
@@ -93,6 +109,7 @@ export default defineComponent({
     });
 
     return {
+      resizedImages,
       activeImage,
       close,
       direction,

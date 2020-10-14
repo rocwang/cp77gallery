@@ -1,14 +1,15 @@
 <template>
   <div :class="$style.root">
     <a
-      v-for="(i, k) in images"
+      v-for="(i, k) in resizedImages"
       :key="k"
-      :href="`/all_goodies/${i.path.replace(/\....$/, '.1440.webp')}`"
+      :href="i.big"
       :class="$style.link"
       @click.prevent="$emit('select', k)"
     >
       <img
-        :src="`/all_goodies/${i.path.replace(/\....$/, '.300.webp')}`"
+        :src="i.src"
+        :srcset="i.srcset"
         :alt="i.caption"
         loading="lazy"
         :class="$style.img"
@@ -18,12 +19,30 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent, computed, PropType } from "vue";
+import { path, srcsetByDensity } from "@/image.ts";
 
 export default defineComponent({
   name: "Grid",
   props: {
-    images: Array,
+    images: {
+      type: Array as PropType<{ target: string; caption: string }[]>,
+      required: true,
+    },
+  },
+  setup(props) {
+    const resizedImages = computed(() =>
+      props.images.map((i) => ({
+        ...i,
+        big: path(i.target, 1440),
+        src: path(i.target, 200),
+        srcset: srcsetByDensity(i.target, [200, 400, 600, 800, 1000]),
+      }))
+    );
+
+    return {
+      resizedImages,
+    };
   },
 });
 </script>
