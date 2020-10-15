@@ -1,6 +1,6 @@
 {
-  "name": "cyberpunk-gallery",
-  "version": "0.1.0",
+  "name": "cyberpunk-2077-gallery",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
