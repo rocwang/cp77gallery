@@ -2,7 +2,7 @@
 
 A simple gallery of Cyberpunk 2077, built with Vue.js 3.
 
-[https://cp77.kiwiberry.nz/](https://cp77.kiwiberry.nz/)
+[Live site][live site]
 
 ## Credit
 
@@ -10,6 +10,18 @@ A simple gallery of Cyberpunk 2077, built with Vue.js 3.
 * font: [gilescope/cyberpunkfonts][font]
 
 ## Project setup
+
+### Generate the images (require ImageMagick)
+
+Download [the image archive][all goodies] from the official website.
+Extract it to the `all_goodies` folder under the project root.
+
+```
+./generate-webp.sh
+```
+
+### Install dependencies
+
 ```
 npm install
 ```
@@ -32,6 +44,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference][vuecli].
 
+[live site]: https://cp77.kiwiberry.nz/
 [cp77]: https://www.cyberpunk.net/nz/en/
 [font]: https://github.com/gilescope/cyberpunkfonts
 [vuecli]: https://cli.vuejs.org/config/
+[all goodies]: https://cdn-l-cyberpunk.cdprojektred.com/goodies/all_goodies.zip

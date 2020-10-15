@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
-# Fix
+# Fix color space issues from the original image files
 # find ./all_goodies/concept_arts -iname '*.jpg' | xargs -P 8 -n 1 mogrify -colorspace RGB
 # find ./all_goodies -iname '*.png' | xargs -P 8 -n 10 mogrify
 
-# Convert
-# find ./all_goodies -iname '*.png' -or -iname '*.jpg' | xargs -P 8 -I {} bash -c 'cwebp -q 75 -resize 0 300 -noalpha -mt -quiet $1 -o "${1%.*}.h300.webp"' _ {} \;
+# Clean
 find ./public/all_goodies -type f |xargs rm -f
 
+# Convert
 find ./all_goodies -iname '*.png' -or -iname '*.jpg' -or -iname '*.pdf' | xargs -P 8 -I {} bash -c \
 '
 convert "$1" -write mpr:main +delete -respect-parentheses \
