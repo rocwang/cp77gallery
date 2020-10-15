@@ -11,10 +11,13 @@ A simple gallery of Cyberpunk 2077, built with Vue.js 3.
 
 ## Project setup
 
-### Generate the images (require ImageMagick)
+### Regenerate the images (require ImageMagick)
 
 Download [the image archive][all goodies] from the official website.
 Extract it to the `all_goodies` folder under the project root.
+
+Run the command below. The generated images will be put under
+`./public/all_goodies/`
 
 ```
 ./generate-webp.sh

@@ -2,7 +2,6 @@
 /all_goodies*/
 /dist/
 /node_modules/
-/public/all_goodies/
 
 # MacOS
 .DS_Store
