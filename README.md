@@ -1,15 +1,8 @@
-# cyberpunk-gallery
+# Cyberpunk 2077 Gallery
 
-## Information architecture
+A simple gallery of Cyberpunk 2077, built with Vue.js 3.
 
-* Cyberpunk 2077 Gallery
-  * Concept Arts
-  * Cover Arts
-  * Gangs Graffiti
-  * Posters
-  * Screenshots
-  * Steelbook Arts
-  * Wallpapers
+[https://cp77.kiwiberry.nz/](https://cp77.kiwiberry.nz/)
 
 ## Credit
 
